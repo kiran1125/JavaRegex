@@ -3,8 +3,9 @@ package com.bridgelabz;
 public class UserRegistration {
     public static void main(String[] args) {
         ValidationOfUserRegistration validationOf = new ValidationOfUserRegistration();
-        validationOf.validateFirstName();
-        validationOf.validateLastName();
-        validationOf.validateEmailId();
+        validationOf.validateFirstName("Kiran");
+        validationOf.validateLastName("Kumar");
+        validationOf.validateEmailId("makamkiran95@gmail.com");
+        validationOf.validateMobileNumber("91 9666069291");
     }
 }

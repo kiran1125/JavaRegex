@@ -8,6 +8,6 @@ public class UserRegistration {
 //      validationOf.validateEmailId("makamkiran95@gmail.com");
 //      validationOf.validateMobileNumber("91 9666069291");
 //      validationOf.validatePasswordRuleOne("kiran56@)+");
-        System.out.println(validationOf.validatePasswordRuleThree("kirAnhhjj1hg"));
+        System.out.println(validationOf.validatePasswordRuleFour("kirA@2nhhjj21hg"));
     }
 }
